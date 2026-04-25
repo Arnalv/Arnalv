@@ -4,9 +4,9 @@
 - 🌐 I am a Full-Stack Web Developer
 
 ## Languages I Know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,postgres,cs,sass,bash,xml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,postgres,cs,sass,bash,xml,r)](https://skillicons.dev)
 ## Frameworks I know
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express)](https://skillicons.dev)
 ## Operating Systems I've used
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,mint,debian,linux)](https://skillicons.dev)
 ## My Software
