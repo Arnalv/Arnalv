@@ -8,7 +8,7 @@
 ## Frameworks I know
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express)](https://skillicons.dev)
 ## Operating Systems I've used
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,mint,debian,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,mint,debian)](https://skillicons.dev)
 ## My Software
 [![My Skills](https://skillicons.dev/icons?i=vim,vscode,neovim,npm,yarn,babel,atom,git,github,postman,powershell)](https://skillicons.dev)
 ## Trophies
